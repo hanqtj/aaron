@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T11:04:59.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="zEjihmkf9G0ZWZwHRInh" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T11:05:31.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="mka51cz5WVjgDQuZMJwm" version="15.3.8" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2138" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2138" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,12 +57,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="liZM2um8pnTieCJuCv05-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-1" source="liZM2um8pnTieCJuCv05-22" target="liZM2um8pnTieCJuCv05-24" edge="1">
+        <mxCell id="liZM2um8pnTieCJuCv05-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-1" source="liZM2um8pnTieCJuCv05-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="500" />
               <mxPoint x="380" y="500" />
             </Array>
+            <mxPoint x="199" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="财务人员" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
